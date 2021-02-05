@@ -18,6 +18,6 @@ export const BORDER_COMENTS = [
 
 export const SIZE_COMMENTS = [
   'Pizza tradicional com 8 pedaços. A famosinha!',
-  'Pizza grande com 10 sabores! Tá com fome né?',
+  'Pizza grande com 10 pedaços! Tá com fome né?',
   '12 pedaços. Eu nunca entendi por que uma pizza precisa se chamar tamanho família... E se eu quiser comer ela sozinho?!',
 ]
